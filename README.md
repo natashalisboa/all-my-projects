@@ -9,4 +9,7 @@
 ## Learning:
 
 [📝 udemy-studies](https://github.com/natashalisboa/udemy-studies) | [📝 alura-studies](https://github.com/natashalisboa/alura-studies)
+
+## Goals:
+[2025](https://github.com/natashalisboa/metas-2025)
 </samp>
