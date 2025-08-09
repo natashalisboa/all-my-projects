@@ -13,6 +13,7 @@ My professional website | [repository](https://github.com/natashalisboa/portfoli
 ## FIAP Tech Challenges:
 - [📝 Challenge 01](https://github.com/natashalisboa/fiap-tech-challenge-01) `outsystems` `lowcode`
 - [📝 Challenge 02](https://github.com/natashalisboa/fiap-tech-challenge-02) `backend` `nodejs`
+- [📝 Challenge 03](https://github.com/natashalisboa/fiap-tech-challenge-03) `frontend` `react`
 
 
 ## Learning:
